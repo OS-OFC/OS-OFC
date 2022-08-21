@@ -9,4 +9,4 @@ ___________
 
 <a href="https://www.instagram.com/oussama_bekrine12"><img alt="instagram" src="https://img.shields.io/badge/-my%20instagram-lightgrey?style=for-the-badge&logo=instagram&logoColor=red"/></a>
 
-<a href="https://www.facebook.com/oussama.bakrine"><img alt="facebook" src="https://img.shields.io/badge/-my%20instagram-lightgrey?style=for-the-badge&logo=facebook&logoColor=blue"/></a>
+<a href="https://www.facebook.com/oussama.bakrine"><img alt="facebook" src="https://img.shields.io/badge/-my%20facebook-lightgrey?style=for-the-badge&logo=facebook&logoColor=blue"/></a>
