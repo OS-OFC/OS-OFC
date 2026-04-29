@@ -10,16 +10,6 @@
 **Nothing, just a few codes and I'll go to sleep haha**
 <br />
 
-### 🛠️ Languages and Tools | التقنيات والأدوات
-<img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align="center" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img align="center" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-
-<br /><br />
-
 ### 📊 GitHub Stats | إحصائيات جيتهاب
 <img src="https://github-readme-stats.vercel.app/api?username=os-ofc&show_icons=true&theme=radical" alt="GitHub Stats" />
 <br />
