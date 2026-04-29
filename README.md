@@ -21,9 +21,9 @@
 <br /><br />
 
 ### 📊 GitHub Stats | إحصائيات جيتهاب
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=os-ofc&show_icons=true&theme=radical" alt="GitHub Stats" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=os-ofc&layout=compact&theme=radical" alt="Top Languages" />
 
 <br /><br />
 
